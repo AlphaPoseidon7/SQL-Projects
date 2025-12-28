@@ -1,5 +1,6 @@
 -- AMAZON SALES ANALYSIS
 
+
 -- Objective 1: Understand the Dataset:
 
 -- 1.1	View all columns and data:
